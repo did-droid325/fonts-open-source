@@ -1,0 +1,35 @@
+/**
+ * @name midnight
+ * @description A dark, rounded discord theme.
+ * @author refact0r
+ * @version 1.6.2
+ * @invite nz87hXyvcy
+ * @website https://github.com/refact0r/midnight-discord
+ * @source https://github.com/refact0r/midnight-discord/blob/master/midnight.theme.css
+ * @authorId 508863359777505290
+ * @authorLink https://www.refact0r.dev
+*/
+
+/* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
+
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/Yes.css);
+
+/* customize things here */
+:root {
+
+@font-face {
+    font-family: 'CC Wild Words';
+    src: url('C:\Users\barley\Desktop\CC Wild Words Bold Italic.woff2') format('woff2'),
+         url('C:\Users\barley\Desktop\CC Wild Words Bold Italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+body {
+    font-family: 'CC Wild Words';
+}
+}
+	/* font, change to 'gg sans' for default discord font*/
+
+
+thaT'S ALL THE DESCRIPRION FOR MY FONTS IN BETTER DISCORD 
+                              USE WITH BRAIN
